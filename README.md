@@ -1,3 +1,2 @@
-Supervised Machine Learning Regression and Classification
-Advanced Learning Algorithms
-Unsupervised Learning, Recommenders, Reinforcement Learning
+# Machine Learning Specialization
+My Solutions of the programming exercises of Coursera's Machine Learning Specialization.
